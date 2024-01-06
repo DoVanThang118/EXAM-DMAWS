@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAWS_T2203E_DoVanThang", "EXAM-DMAWS\DMAWS_T2203E_DoVanThang.csproj", "{25B05047-64C0-45F0-9FB3-985905FF30C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAWS_T2203E_THANG", "DMAWS_T2203E_THANG\DMAWS_T2203E_THANG.csproj", "{C89F92C6-D3C9-43E3-94F3-D217A860C816}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{25B05047-64C0-45F0-9FB3-985905FF30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B05047-64C0-45F0-9FB3-985905FF30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B05047-64C0-45F0-9FB3-985905FF30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89F92C6-D3C9-43E3-94F3-D217A860C816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89F92C6-D3C9-43E3-94F3-D217A860C816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89F92C6-D3C9-43E3-94F3-D217A860C816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89F92C6-D3C9-43E3-94F3-D217A860C816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
