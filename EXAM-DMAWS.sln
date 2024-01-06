@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXAM-DMAWS", "EXAM-DMAWS\EXAM-DMAWS.csproj", "{25B05047-64C0-45F0-9FB3-985905FF30C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAWS_T2203E_DoVanThang", "EXAM-DMAWS\DMAWS_T2203E_DoVanThang.csproj", "{25B05047-64C0-45F0-9FB3-985905FF30C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
